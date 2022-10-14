@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SMS Server</string>
+    <string name="send">SEND</string>
+    <string name="phonenumber">+380</string>
+    <string name="delivered">DELIVERED: PHONE ONLINE</string>
+    <string name="offline">DELIVERY FAILED: PHONE OFFLINE</string>
+    <string name="sent">THE REQUEST IS SENT … </string>
+    <string name="notsent">FAILED TO SEND REQUEST </string>
+    <string name="pick_contact">Pick Phone from Contacts</string>
+    <string name="pick_contact_failed">Failed to select contact</string>
+    <string name="title_history">History:</string>
+    <string name="storage_description">Long-touch row to copy contents into clipboard</string>
+    <string name="result_pdu_details">Result PDU details</string>
+    <string name="server_address">serverAddress</string>
+    <string name="connected">Connected</string>
+    <string name="report_send">Report send...</string>
+    <string name="empty_address">The address field cannot be empty!!!</string>
+    <string name="toast_input_server_address">You need to input the server address</string>
+    <string name="status_message">awaite</string>
+    <string name="barcode_detect">No Barcode Detected</string>
+    <string name="save_id">SAVE ID</string>
+    <string name="notifications">Notifications</string>
+</resources>

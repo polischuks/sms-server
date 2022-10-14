@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SMS Server</string>
+    <string name="send">ОТПРАВИТЬ</string>
+    <string name="phonenumber">+380</string>
+    <string name="delivered">АБОНЕНТ В СЕТИ</string>
+    <string name="offline">АБОНЕНТ НЕДОСТУПЕН</string>
+    <string name="sent">ЗАПРОС ОТПРАВЛЕН …</string>
+    <string name="notsent">НЕ ПОЛУЧИЛОСЬ ОТПРАВИТЬ ЗАПРОС!</string>
+    <string name="pick_contact">Выбрать контакт</string>
+    <string name="pick_contact_failed">Не удалось выбрать контакт</string>
+    <string name="title_history">история:</string>
+    <string name="storage_description">Длинный контакт для копирования</string>
+    <string name="result_pdu_details">Result PDU details</string>
+    <string name="server_address">serverAddress</string>
+    <string name="connected">Соединение установлено</string>
+    <string name="report_send">Отчет отправлен…</string>
+    <string name="empty_address">Поле адреса не может быть пустым!!!</string>
+    <string name="toast_input_server_address">Вам нужно добавить адрес сервера</string>
+    <string name="status_message">awaite</string>
+    <string name="barcode_detect">Barcode не обнаружен</string>
+    <string name="save_id">СОХРАНИТЬ</string>
+    <string name="notifications">Уведомления</string>
+</resources>
